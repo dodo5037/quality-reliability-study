@@ -1,0 +1,6 @@
+,finding
+HDF,"All 115 heat failures have temperature gap < 8.6 K AND speed < 1,380 rpm (max seen: 8.60 K, 1379 rpm)"
+PWF,"Power failures sit at the extremes: 31 below 3,500 W and 64 above 9,000 W (normal runs average 6,280 W)"
+OSF,"Overstrain starts at wear x torque of about L: 11,003, M: 12,337, H: 13,235 min*Nm: lower-quality products fail sooner"
+TWF,Tool wear failures happen between 198 and 253 min of tool wear (median 214)
+RNF,"19 random failures (0.1% chance per run, no sensor pattern): not preventable by monitoring"

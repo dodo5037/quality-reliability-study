@@ -1,0 +1,11 @@
+,value
+torque_center,39.986909999999995
+torque_ucl,69.61492599308866
+torque_lcl,10.35889400691132
+torque_points_outside,26.0
+torque_share_outside,0.0026
+p_bar,0.0339
+p_ucl,0.06823698356000421
+p_lcl,0.0
+batches,40.0
+batches_outside,4.0

@@ -1,0 +1,6 @@
+mode,failure_mode,effect,current_control,count,S,O,D,RPN
+HDF,Heat dissipation,Overheating stops the machine; scrap risk,Temperature gap and speed sensors,115,7,8,3,168
+OSF,Overstrain,Tool breaks under load; part scrapped,Wear x torque tracked per product type,98,8,7,3,168
+PWF,Power,Motor stalls or overloads,Power = torque x speed monitored,95,7,7,3,147
+TWF,Tool wear,"Worn tool fails; part scrapped, tool changed","Wear counter, but failure time varies 198-253 min",46,6,4,5,120
+RNF,Random,Unexplained failure,No sensor signal; cannot be detected in advance,19,6,2,10,120
