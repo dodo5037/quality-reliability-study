@@ -1,6 +1,8 @@
 # Quality + Reliability Study: Why Machines Fail
 
-A quality-engineering study of **10,000 machine runs** with 339 failures (AI4I 2020 predictive maintenance dataset). It uses Pareto analysis, root-cause analysis with physical features, SPC control charts, FMEA, a failure-prediction model and a tool-replacement policy.
+A quality-engineering study of **10,000 machine runs** with 339 failures (AI4I 2020 predictive maintenance dataset, which is **synthetic**). It uses Pareto analysis, root-cause analysis with physical features, SPC control charts, FMEA, a failure-prediction model and a tool-replacement policy.
+
+**In plain terms:** three failure modes cause 83% of failures, so fix those first; keep the cooling margin up in hot periods (94% of heat failures happened in one hot stretch); and replace tools at 200 minutes. Because the data is synthetic, this shows the method, not a real plant's numbers.
 
 ![Root causes](outputs/charts/02_root_causes.png)
 
